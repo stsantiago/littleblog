@@ -8,9 +8,16 @@ body {
   padding: 0;
 }
 
+#cabecera {
+  background-color: darkblue;
+  color: whitesmoke;
+  padding: 15px 0;
+  width: 100%;
+  font-weight: bolder;
+}
+
 .container {
   width: 50%;
-  padding: 1em;
   border-bottom: 3px solid #fafa;
   border-right: 10px solid #fff233;
   border-left: 10px solid #33beff;
