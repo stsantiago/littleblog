@@ -35,3 +35,9 @@ body {
   height: 50px;
   width: auto;
 }
+
+.footer {
+  background-color: cadetblue;
+  padding: 12px;
+  color: whitesmoke;
+}
